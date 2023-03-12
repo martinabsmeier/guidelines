@@ -976,11 +976,3 @@ private static boolean isGoodSquareRootEstimate(double arg, double estimate) {
 Here the termination condition was reformulated and transferred to an auxiliary method in order to further improve the readability of the squareRoot() method. It is also an example of a self-documenting program element, in this case a speaking method name.
 
 **It is necessary to create or adapt the code comments when writing the code and not afterwards.**
-
-
-
-
-
-
-
-
